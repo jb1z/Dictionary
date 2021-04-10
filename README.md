@@ -1,5 +1,5 @@
-## Dictionary
-# internship project <br/>
+# Dictionary
+## internship project <br/>
 Проект написан и собран в Qt Creator 4.13.0 (основан на Qt 5.15.0)<br/>
 JBexe - папка с исполняемым файлом и всеми необходимыми для него библиотеками.<br/>
 JBpro - папка проекта собранного в QT, в ней находятся откомментированные .cpp - файлы.<br/>
